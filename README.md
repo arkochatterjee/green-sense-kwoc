@@ -1,4 +1,7 @@
 # Green Sense
+
+[![Join the chat at https://gitter.im/green-sense-kwoc/Lobby](https://badges.gitter.im/green-sense-kwoc/Lobby.svg)](https://gitter.im/green-sense-kwoc/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 An Open Source Project for Smart Plant Monitoring for Precision Farming
 
 
